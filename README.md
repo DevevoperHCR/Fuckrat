@@ -5,12 +5,15 @@ Application is optimized for _low-end PCs_ and
 supports smooth installation on lightweight 
 **Windows systems.**
 _Minimum Requirements_
-Operating System: **Windows 7 / 8 / 10 / 11**
-Processor: Any basic dual-core processor
+Operating System: 
+**Windows 7 / 8 / 10 / 11**
+
+_Processor: Any basic dual-core processor_
 RAM: 2 GB minimum
 Storage Space: 10 MB of free disk space
 Architecture: 32-bit or 64-bit supported
-Recommended For
+
+_Recommended For
 Low-specification PCs
 Older desktop and laptop systems
 Lightweight Windows environments
